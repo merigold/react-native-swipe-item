@@ -99,6 +99,7 @@ export default class SwipeItem extends React.Component<Props, States> {
                         dx: this.state.panDistance.x,
                     },
                 ],
+                {useNativeDriver: true}
             ),
             onPanResponderRelease: (evt: GestureResponderEvent, gestureState: PanResponderGestureState) => {
                 this._moveToDestination(this._getSwipePositionDestinationValueX(gestureState.dx));
