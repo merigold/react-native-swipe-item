@@ -1,4 +1,4 @@
-declare module 'react-native-swipe-item' {
+declare module 'react-native-swipeable-item2' {
     import { ViewStyle, ViewProps } from 'react-native';
     import { Component, ReactChild, ReactNode } from 'react';
 

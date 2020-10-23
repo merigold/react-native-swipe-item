@@ -23,7 +23,7 @@ npm i --save react-native-swipe-item
 You can use the `SwipeButtonsContainer` to wrap buttons that you want to show when users swipe the item, and pass it to props.
 
 ```javascript
-import { SwipeItem, SwipeButtonsContainer } from 'react-native-swipe-item';
+import { SwipeItem, SwipeButtonsContainer } from 'react-native-swipeable-item2';
 
 export default function SwipeButtonCustom() {
 
