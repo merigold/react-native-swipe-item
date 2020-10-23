@@ -31,11 +31,12 @@
 		"react-component",
 		"react-native",
 		"swipe",
-		"swipe-item"
+		"swipe-item",
+		"swipeable"
 	],
-	"author": "Gavin Wang <kuku8990@gmail.com> (https://github.com/ambisign-gavin)",
+	"author": "Michael Konstantynovskyi <mikykonst66@gmail.com> (https://github.com/mikykonst)",
 	"repository": {
 		"type": "git",
-		"url": "git@github.com:ambisign-gavin/react-native-swipe-item.git"
+		"url": "git@github.com:mikykonst/react-native-swipe-item.git"
 	}
 }
